@@ -39,6 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Just remembered I had trouble filtering the movies data array with predicates/blocks (for searching), so I had to use they janky solution that's currently in there.
 
 ## License
 
